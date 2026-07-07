@@ -1,12 +1,24 @@
-<h1 align="center">Agus Safrudin</h1>
+<h3 align="center">
+  <code>Full-Stack Software Engineer</code>
+</h3>
+
+<h1 align="center">Hi, I'm Agus Safrudin</h1>
 
 <p align="center">
-  Software Engineer focused on scalable web applications, clean architecture, and maintainable systems.
+  Building scalable web applications, backend systems, and SaaS products with clean architecture.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=Software+Engineer;TypeScript+Ecosystem;Scalable+Web+Applications;Clean+Architecture;SaaS+Product+Development" />
+  <img src="https://komarev.com/ghpvc/?username=AgusJems&label=Profile%20views&color=64748b&style=flat" />
+  <img src="https://img.shields.io/badge/TypeScript-Ecosystem-0f172a?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Practice-0f172a?style=flat" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Angular+%2B+React+with+TypeScript;NestJS+%2B+Express.js+%2B+.NET;MySQL+%2B+SQL+Server;Scalable+Development;SaaS+Product+Development" />
+</p>
+
+---
 
 <p align="center">
   <a href="mailto:safrudinagus071@gmail.com">Email</a> ·
