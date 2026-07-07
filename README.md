@@ -1,4 +1,4 @@
-<h1 align="center">Agus Jems</h1>
+<h1 align="center">Agus Safrudin</h1>
 
 <p align="center">
   Software Engineer focused on scalable web applications, clean architecture, and maintainable systems.
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:safrudinagus071@gmail.com">Email</a> ·
-  <a href="[https://www.linkedin.com/in/username-linkedin/](https://www.linkedin.com/in/agus-safrudin-b11a8b37b/)">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/agus-safrudin-b11a8b37b/">LinkedIn</a> ·
 </p>
 
 ---
@@ -58,22 +58,6 @@ Relational database design, query optimization, data modeling, and application i
 ### Software Architecture
 
 Clean Architecture, scalable project structure, separation of concerns, modular design, and maintainable development workflow.
-
----
-
-## Selected Projects
-
-### Synpharm Backend
-
-Backend service developed with TypeScript, focused on modular structure, API organization, and scalable service development.
-
-### SIMRS Landing Frontend
-
-Frontend application for healthcare information system needs, designed with maintainable UI structure and practical implementation.
-
-### Martina Bakery Apps
-
-Web application project created to support business workflows and digital operations.
 
 ---
 
