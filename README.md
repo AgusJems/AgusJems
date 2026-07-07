@@ -11,7 +11,6 @@
 <p align="center">
   <a href="mailto:safrudinagus071@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/agus-safrudin-b11a8b37b/">LinkedIn</a> ·
-  <a href="https://github.com/AgusJems">GitHub</a>
 </p>
 
 ---
@@ -65,18 +64,6 @@ I enjoy turning complex business requirements into reliable, readable, and maint
   <img src="https://img.shields.io/badge/SaaS-Product%20Development-0F172A?style=flat" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-Principle-0F172A?style=flat" />
   <img src="https://img.shields.io/badge/Scalable%20Development-Practice-0F172A?style=flat" />
-</p>
-
----
-
-## Contribution Visualization
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgusJems/AgusJems/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgusJems/AgusJems/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AgusJems/AgusJems/output/github-snake.svg" />
-  </picture>
 </p>
 
 ---
