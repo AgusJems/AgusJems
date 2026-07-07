@@ -1,7 +1,7 @@
 <h1 align="center">Agus Safrudin</h1>
 
 <p align="center">
-  Software Engineer focused on scalable web applications, SaaS products, clean architecture, and maintainable systems.
+  Full-Stack Software Engineer focused on scalable web applications, SaaS products, clean architecture, and maintainable systems.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 I build web applications, mobile applications, backend systems, and SaaS products with a focus on structure, scalability, and long-term maintainability.
 
-My work is centered around TypeScript ecosystems, modern frontend architecture, backend API design, relational databases, mobile development, and clean software design principles.
+My work is centered around the TypeScript ecosystem, modern frontend architecture, backend API design, relational databases, mobile development, and clean software design principles.
 
 I enjoy turning complex business requirements into reliable, readable, and maintainable software.
 
@@ -69,13 +69,13 @@ I enjoy turning complex business requirements into reliable, readable, and maint
 
 ---
 
-## Contribution Activity
+## Contribution Visualization
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgusJems/AgusJems/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgusJems/AgusJems/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AgusJems/AgusJems/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AgusJems/AgusJems/output/github-snake.svg" />
   </picture>
 </p>
 
