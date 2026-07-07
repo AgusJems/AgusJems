@@ -6,102 +6,97 @@
 
 <p align="center">
   <a href="mailto:emailkamu@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/username-linkedin/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/username-linkedin/">LinkedIn</a> ·
+  <a href="https://github.com/AgusJems">GitHub</a>
 </p>
 
 ---
 
-## About
+## Profile
 
-I am a Software Engineer with experience in building modern web applications and backend systems using TypeScript, Angular, React, NestJS, .NET, MySQL, and SQL Server.
+I build web applications and backend systems with a focus on structure, scalability, and long-term maintainability.
 
-I focus on writing clean, maintainable, and scalable code by applying software engineering principles such as Clean Architecture, separation of concerns, modular design, and structured development workflows.
+My work is centered around TypeScript ecosystems, modern frontend architecture, backend API design, relational databases, and clean software design principles. I enjoy turning complex business requirements into reliable, readable, and maintainable software.
 
-My interests include frontend architecture, backend API design, database optimization, system scalability, and building applications that solve real business problems.
+---
+
+## Core Stack
+
+| Area | Technologies |
+|---|---|
+| Frontend | Angular, React, TypeScript |
+| Backend | NestJS, .NET |
+| Database | MySQL, SQL Server |
+| Architecture | Clean Architecture, Modular Design, Scalable Development |
+| Practices | REST API Design, Code Reusability, Separation of Concerns, Maintainable Codebase |
+
+---
+
+## Engineering Focus
+
+- Designing applications with clear boundaries between presentation, business logic, and data access.
+- Building scalable frontend and backend modules that are easy to extend and maintain.
+- Creating structured APIs and database models for real business workflows.
+- Improving code quality through consistency, readability, and practical architecture.
+- Developing systems with long-term maintenance and team collaboration in mind.
 
 ---
 
 ## Technical Skills
 
-### Frontend
+### Frontend Development
 
-- Angular with TypeScript
-- React with TypeScript
-- Component-based architecture
-- Responsive web application development
-- API integration and state management
+Angular and React applications built with TypeScript, reusable components, responsive layouts, API integration, and structured state handling.
 
-### Backend
+### Backend Development
 
-- NestJS
-- .NET
-- RESTful API development
-- Authentication and authorization
-- Modular backend architecture
+RESTful API development using NestJS and .NET with modular service structure, validation, authentication, authorization, and maintainable business logic.
 
-### Database
+### Database Engineering
 
-- MySQL
-- SQL Server
-- Database design
-- Query optimization
-- Relational data modeling
+Relational database design, query optimization, data modeling, and application integration using MySQL and SQL Server.
 
-### Engineering Principles
+### Software Architecture
 
-- Clean Architecture
-- Scalable Development
-- Maintainable Codebase
-- Separation of Concerns
-- Code Reusability
-- Structured Project Development
+Clean Architecture, scalable project structure, separation of concerns, modular design, and maintainable development workflow.
 
 ---
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,nestjs,dotnet,mysql,git,github,vscode" />
-</p>
-
----
-
-## Featured Projects
+## Selected Projects
 
 ### Synpharm Backend
 
-Backend service built with TypeScript, designed with modular structure and scalable development principles.
+Backend service developed with TypeScript, focused on modular structure, API organization, and scalable service development.
 
 ### SIMRS Landing Frontend
 
-Frontend application for healthcare information system needs, focused on clean UI structure and maintainable frontend development.
+Frontend application for healthcare information system needs, designed with maintainable UI structure and practical implementation.
 
 ### Martina Bakery Apps
 
-Web application project developed to support business workflows and digital operations.
+Web application project created to support business workflows and digital operations.
 
 ---
 
-## GitHub Overview
+## Tools & Technologies
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AgusJems&show_icons=true&theme=github_dark&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/Angular-TypeScript-0F172A?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-TypeScript-0F172A?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-Backend-0F172A?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-Backend-0F172A?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-0F172A?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Database-0F172A?style=flat&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Principle-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/Scalable%20Development-Practice-0F172A?style=flat" />
 </p>
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusJems&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 ---
 
-## Development Focus
+## Professional Principles
 
-I enjoy working on systems that are structured, scalable, and easy to maintain.
-
-My approach emphasizes clear architecture, readable code, practical solutions, and long-term maintainability.
-
----
+I believe good software is not only about working features, but also about clarity, maintainability, scalability, and the ability to adapt as requirements grow.
 
 <p align="center">
-  Building reliable software with clean architecture and scalable engineering practices.
+  <sub>Building reliable software through clean architecture, scalable design, and practical engineering.</sub>
 </p>
